@@ -1,1 +1,3 @@
-Ghello
+mijn hobbies:
+- wakeboarden
+- brommers
